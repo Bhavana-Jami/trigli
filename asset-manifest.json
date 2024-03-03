@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trigli/static/css/main.7cb489f6.css",
+    "main.js": "/trigli/static/js/main.fa9ac055.js",
+    "static/js/453.979f46f8.chunk.js": "/trigli/static/js/453.979f46f8.chunk.js",
+    "index.html": "/trigli/index.html",
+    "main.7cb489f6.css.map": "/trigli/static/css/main.7cb489f6.css.map",
+    "main.fa9ac055.js.map": "/trigli/static/js/main.fa9ac055.js.map",
+    "453.979f46f8.chunk.js.map": "/trigli/static/js/453.979f46f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb489f6.css",
+    "static/js/main.fa9ac055.js"
+  ]
+}
