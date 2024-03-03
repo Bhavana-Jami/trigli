@@ -1,0 +1,29 @@
+.App {
+}
+#app {
+  /* height: 100% !important; */
+  width: 100% !important;
+  overflow-x: hidden;
+  /* background-color: #ebf1f7 !important; */
+  position: relative !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+/* ::-webkit-scrollbar-track {
+  background: #f1f1f1;
+} */
+
+/* Handle */
+/* ::-webkit-scrollbar-thumb {
+  background: #888;
+} */
+
+/* Handle on hover */
+/* ::-webkit-scrollbar-thumb:hover {
+  background: #555;
+} */
