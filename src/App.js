@@ -26,7 +26,7 @@ function App() {
     <BrowserRouter>
       <Navigation />
       <Routes>
-        <Route path="/" exact element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/triggers" element={<Triggers />} />
         <Route path="/glimmers" element={<Glimmers />} />
         <Route path="/about" element={<About />} />
