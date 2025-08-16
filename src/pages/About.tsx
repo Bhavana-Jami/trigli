@@ -1,6 +1,4 @@
-"use client"
-
-import { BookOpen, Heart, Target, Users, ArrowLeft } from "lucide-react"
+import { Heart, Target, Users, ArrowLeft } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 
